@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🍃 Flyer's Journal
 
-<!--
-**muhhyusufrizal17/muhhyusufrizal17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “Be where you are needed, and make it meaningful.”
 
-Here are some ideas to get you started:
+Hi, I'm **Yusuf Rizal**  
+A Data Science learner who enjoys turning data into something useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 About Me
+- 📊 Interested in Data Analysis & Machine Learning  
+- 🌿 Currently learning: LSTM, Predictive Modeling  
+- ✨ Focus: Small projects, meaningful insights  
+- 📍 Based in Indonesia  
+
+---
+
+### 🧰 Tools & Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn)
+
+---
+
+### 📊 GitHub Activity
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+
+---
+
+### 🌿 Notes
+> Still learning, still growing.  
+> Every dataset tells a story.
+
+---
+
+### 📫 Reach Me
+- Email: your_email_here
