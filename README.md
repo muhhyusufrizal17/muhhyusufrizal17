@@ -1,21 +1,28 @@
 # 🍃 Flyer's Journal
 
+![banner](https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Documenting+small+things;Finding+meaning+in+data;Still+learning...)
+
+---
+
+## 🌱 Entry Log
 > “Be where you are needed, and make it meaningful.”
 
 Hi, I'm **Yusuf Rizal**  
-A Data Science learner who enjoys turning data into something useful.
+A Data Science learner who treats every dataset like a story waiting to be understood.
 
 ---
 
-### 🌱 About Me
-- 📊 Interested in Data Analysis & Machine Learning  
-- 🌿 Currently learning: LSTM, Predictive Modeling  
-- ✨ Focus: Small projects, meaningful insights  
-- 📍 Based in Indonesia  
+## 🌿 Current Route
+- 📊 Exploring: Data Analysis & Machine Learning  
+- 🌱 Learning: LSTM, Time Series  
+- 🧭 Direction: Building small but meaningful projects  
+- 📍 Location: Indonesia  
 
 ---
 
-### 🧰 Tools & Skills
+## 🧰 Field Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
@@ -23,20 +30,25 @@ A Data Science learner who enjoys turning data into something useful.
 
 ---
 
-### 📊 GitHub Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
----
-
-### 🌿 Notes
-> Still learning, still growing.  
-> Every dataset tells a story.
+## 📓 Journal Entries
+🌿 [Project 1 - Data Exploration](https://github.com/USERNAME/REPO)  
+🍃 [Project 2 - Machine Learning](https://github.com/USERNAME/REPO)  
+🌱 [Project 3 - Time Series (LSTM)](https://github.com/USERNAME/REPO)  
 
 ---
 
-### 📫 Reach Me
-- Email: your_email_here
+## 📊 Activity Trace
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&hide_border=true)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Flyer's+Journal;Data+Science+Student;Learning+by+doing)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true)
+
+---
+
+## 🐦 Side Notes
+> Progress doesn’t have to be loud to be real.  
+> Small steps still count.
+
+---
+
+## 📫 Contact
+- 📧 your_email_here
