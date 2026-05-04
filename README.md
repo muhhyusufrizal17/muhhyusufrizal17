@@ -1,6 +1,6 @@
 # 🍃 Flyer's Journal
 
-![banner](https://raw.githubusercontent.com/muhhyusufrizal17/main/banner.png)
+![banner](banner.png)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Documenting+small+things;Finding+meaning+in+data;Still+learning...)
 
