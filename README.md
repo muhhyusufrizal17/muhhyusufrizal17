@@ -1,6 +1,4 @@
-# 🍃 Flyer's Journal
-
-![banner](banner.png)
+# 🍃 My Journal
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Documenting+small+things;Finding+meaning+in+data;Still+learning...)
 
@@ -9,7 +7,7 @@
 ## 🌱 Entry Log
 > “Be where you are needed, and make it meaningful.”
 
-Hi, I'm **Yusuf Rizal**  
+Hi, I'm **Muhammad Yusuf Rizal**  
 A Data Science learner who treats every dataset like a story waiting to be understood.
 
 ---
@@ -51,4 +49,4 @@ A Data Science learner who treats every dataset like a story waiting to be under
 ---
 
 ## 📫 Contact
-- 📧 your_email_here
+- 📧 Muhhyusufrizal17@gmail.com
