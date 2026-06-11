@@ -1,7 +1,6 @@
 # 🍃 My Journal
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Documenting+small+things;Finding+meaning+in+data;Still+learning...)
-
 ---
 
 ## 🌱 Entry Log
@@ -13,8 +12,8 @@ A Data Science learner who treats every dataset like a story waiting to be under
 ---
 
 ## 🌿 Current Route
-- 📊 Exploring: Data Analysis & Machine Learning  
-- 🌱 Learning: LSTM, Time Series  
+- 📊 Working on: Fuzzy Logic, NLP, Machine Learning, Decision Support System (DSS), Multi-Criteria Decision Making (MCDM), Time Series Forecasting, Data Analysis
+- 🌱 Learning: Fuzzy Inference System, Model Evaluation, DSS Validation 
 - 🧭 Direction: Building small but meaningful projects  
 - 📍 Location: Indonesia  
 
