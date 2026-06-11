@@ -57,6 +57,7 @@ Decision support and fuzzy MCDM experiments, including FANP, fuzzy pairwise comp
 Forecasting experiments using statistical and machine learning models, including ARIMA, Prophet, regression-based models, and comparative evaluation.
 📊 **Machine Learning Portfolio Projects**  
 Applied machine learning projects involving classification, forecasting, evaluation metrics, and interpretable model comparison.
+
 ---
 ## 📊 Activity Trace
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&hide_border=true)
