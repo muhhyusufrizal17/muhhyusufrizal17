@@ -1,6 +1,6 @@
 # 🍃 My Journal
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Researching%20uncertainty%2C%20modeling%20ambiguity%2C%20and%20growing%20through%20the%20noise.;Building%20models%20for%20uncertain%20data%20and%20meaning%20for%20uncertain%20days.;Turning%20ambiguity%20into%20structure%2C%20one%20hypothesis%20at%20a%20time.;Somewhere%20between%20fuzzy%20logic%20and%20quiet%20resilience.;Learning%20to%20make%20uncertainty%20interpretable.;Where%20data%20hesitates%2C%20interpretation%20begins.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?width=800&duration=5000&pause=1200&lines=Researching%20uncertainty.;Modeling%20ambiguity.;Turning%20doubt%20into%20structure.;Somewhere%20between%20fuzzy%20logic%20and%20quiet%20resilience.;Where%20data%20hesitates%2C%20interpretation%20begins.)
 
 ---
 
