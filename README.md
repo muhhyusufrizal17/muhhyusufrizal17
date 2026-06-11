@@ -8,6 +8,7 @@ Hi, I'm **Muhammad Yusuf Rizal**.
 I am a Data Science and Machine Learning learner with an interest in **Fuzzy Logic**, **Natural Language Processing**, **Decision Support Systems**, **Multi-Criteria Decision Making**, and **Time Series Forecasting**.
 
 My work focuses on building research-oriented and portfolio-based projects that connect data, uncertainty, interpretation, and decision-making. I am especially interested in hybrid approaches that combine statistical learning, fuzzy reasoning, and interpretable evaluation.
+
 ---
 ## 🌿 Current Focus
 - 📊 Working on: Fuzzy Logic, NLP, Machine Learning, Decision Support System (DSS), Multi-Criteria Decision Making (MCDM), Time Series Forecasting, Data Analysis
