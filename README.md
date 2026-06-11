@@ -18,10 +18,35 @@ A Data Science learner who treats every dataset like a story waiting to be under
 ---
 
 ## 🧰 Field Tools
+
+### Core Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![Prophet](https://img.shields.io/badge/Prophet-000000?style=flat)
+
+### NLP & Text Mining
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat)
+![VADER](https://img.shields.io/badge/VADER%20Sentiment-5A5A5A?style=flat)
+![IndoNLP](https://img.shields.io/badge/IndoNLP-009688?style=flat)
+![Deep Translator](https://img.shields.io/badge/Deep--Translator-4285F4?style=flat)
+
+### Fuzzy Logic & Decision Support
+![Scikit-Fuzzy](https://img.shields.io/badge/Scikit--Fuzzy-6A5ACD?style=flat)
+![DSS](https://img.shields.io/badge/Decision%20Support%20System-2E8B57?style=flat)
+![MCDM](https://img.shields.io/badge/MCDM-4682B4?style=flat)
+![Fuzzy Logic](https://img.shields.io/badge/Fuzzy%20Logic-8A2BE2?style=flat)
+
+### Visualization & Notebook
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
