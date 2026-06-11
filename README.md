@@ -51,10 +51,13 @@ My work focuses on building research-oriented and portfolio-based projects that 
 
 🌿 **Hybrid Probabilistic–Fuzzy NLP**  
 An ambiguity-aware emotional state classification prototype inspired by Dante’s *The Divine Comedy*, combining Threshold-based Naive Bayes, Log-Likelihood Ratio, Mamdani fuzzy inference design, and planned Wang–Mendel rule generation.
+
 🍃 **Fuzzy Decision Support & MCDM**  
 Decision support and fuzzy MCDM experiments, including FANP, fuzzy pairwise comparison, and validation-oriented fuzzy data processing.
+
 🌱 **Time Series Forecasting**  
 Forecasting experiments using statistical and machine learning models, including ARIMA, Prophet, regression-based models, and comparative evaluation.
+
 📊 **Machine Learning Portfolio Projects**  
 Applied machine learning projects involving classification, forecasting, evaluation metrics, and interpretable model comparison.
 
