@@ -1,6 +1,6 @@
 # 🍃 My Journal
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Documenting+small+things;Finding+meaning+in+data;Still+learning...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Researching+uncertainty,+modeling+ambiguity,+and+growing+through+the+noise.;Building+models+for+uncertain+data+and+meaning+for+uncertain+days.;Turning+ambiguity+into+structure,+one+hypothesis+at+a+time.;Somewhere+between+fuzzy+logic+and+quiet+resilience.;Learning+to+make+uncertainty+interpretable.;Where+data+hesitates,+interpretation+begins.)
 ---
 
 ## 🌱 Entry Log
